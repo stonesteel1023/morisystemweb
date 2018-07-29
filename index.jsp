@@ -59,7 +59,9 @@
 
 <dl>
 <dt>2015/11/02</dt>
-<dd>モリシステム　SI事業部のホームページをリニューアルしました。<img src="images/icon_new.gif" alt="NEW" width="30" height="11" /></dd>
+<dd>モリシステム　SI事業部のホームページをリニューアルしました。
+  <%-- <img src="images/icon_new.gif" alt="NEW" width="30" height="11" /> --%>
+</dd>
 </dl>
 
 <dl>
