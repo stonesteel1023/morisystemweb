@@ -9,4 +9,4 @@
 - v.1.11 : Encoding problem -> fixed) UTF8 plus
 - v.1.111 : mail/contact page fixing(html)
 
-Copyright© 2018 Mori System Corporation All Rights Reserved.
+####Copyright© 2018 Mori System Corporation All Rights Reserved.
