@@ -1,0 +1,9 @@
+@CHARSET "shift_jis";
+
+.exampleFont{
+	font-size: 70%;
+	color: green;
+}
+.txt-red{
+	color: red;
+}
